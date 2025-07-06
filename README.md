@@ -1,0 +1,2 @@
+# PirateGhosty
+A notification service.
