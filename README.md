@@ -1,2 +1,2 @@
 # PirateGhosty
-A notification service.
+A fun notification service (still under development).
