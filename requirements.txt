@@ -1,0 +1,16 @@
+# DO NOT include azure-functions-worker in this file
+# The Python Worker is managed by Azure Functions platform
+# Manually managing azure-functions-worker may cause unexpected issues
+
+azure-functions
+dependency_injector
+azure-data-tables
+azure-core
+httpx
+httpx[http2]
+twilio
+azure-keyvault
+azure-identity
+pytest 
+pytest-mock
+python-dotenv
